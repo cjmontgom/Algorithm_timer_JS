@@ -1,0 +1,22 @@
+body {
+  /* column-count: 3; */
+  padding-top: 100px
+}
+
+div {
+  column-span: all;
+}
+
+table {
+  font-family: sans-serif;
+  table-layout: fixed;
+  width: 100%;
+  /* border-collapse: collapse;
+  border: 1px solid purple; */
+  /* column-span: 1; */
+}
+
+tr, th, td {
+  /* border-collapse: collapse;
+  border: 1px solid purple; */
+}
